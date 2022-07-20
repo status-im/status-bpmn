@@ -10,5 +10,5 @@
 <b>Goal statement (What do we want to achieve?)</b>
 <insert>
 
-  <b>Timeline (When the change should be completed? Why?)</b>
+<b>Timeline (When the change should be completed? Why?)</b>
 <insert>
