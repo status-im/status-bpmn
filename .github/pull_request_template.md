@@ -1,14 +1,14 @@
-<b>Description of the request</b>
+**Description of the request**
 <insert>
 
-<b>Type of the change (Process, Technology, People)</b>
+**Type of the change (Process, Technology, People)**
 <insert>
 
-<b>Problem statement (Why)</b>
+**Problem statement (Why)**
 <insert>
 
-<b>Goal statement (What do we want to achieve?)</b>
+**Goal statement (What do we want to achieve?)**
 <insert>
 
-  <b>Timeline (When the change should be completed? Why?)</b>
+**Timeline (When the change should be completed? Why?)**
 <insert>
